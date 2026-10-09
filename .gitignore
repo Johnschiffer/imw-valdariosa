@@ -1,0 +1,23 @@
+# Configurações e artefatos locais de ferramentas de IA
+.agents/
+.codex/
+.playwright-mcp/
+skills-lock.json
+docs/seo-audit.md
+
+# Credenciais e configuração privada
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs, arquivos temporários e sistema operacional
+*.log
+*.tmp
+*.temp
+*.bak
+__pycache__/
+.DS_Store
+Thumbs.db
+Desktop.ini

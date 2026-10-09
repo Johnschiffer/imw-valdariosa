@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imwvproject.netlify.app/sitemap.xml

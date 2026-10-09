@@ -1,0 +1,3 @@
+# Documentação interna de auditoria não deve entrar nos resultados de busca.
+/docs/*
+  X-Robots-Tag: noindex
